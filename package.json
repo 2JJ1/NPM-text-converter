@@ -1,0 +1,16 @@
+{
+  "name": "text-converter",
+  "version": "1.0.1",
+  "description": "Convert ASCII text to other types of text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2JJ1/NPM-text-converter"
+  },
+  "author": "Jonathon Powell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2JJ1/NPM-text-converter/issues"
+  },
+  "homepage": "https://github.com/2JJ1/NPM-text-converter#readme"
+}
