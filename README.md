@@ -1,8 +1,8 @@
 
 
-# phrase-blacklist
+# text-converter
 
-Filter out strings with banned words and bypasses some evasion
+Converts text to other forms
 
 
 # Installing
